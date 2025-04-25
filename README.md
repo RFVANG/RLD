@@ -1,12 +1,11 @@
 # The Liver Dashboard
 
-A  collection of apps for assisting clinical decisions in Hepatology
+A  collection of apps for calculations prognostic scores in Hetapology
 
 ## Included Apps
 
 - **ACLF Classification Tool** (`aclf_app.py`):  
-  Classifies patients based on EASL-CLIF ACLF criteria
-
+  Provides the ACLF grade and linked mortality
 - **Rotterdam Score for Acute Budd-Chiari Syndrome** (`rotterdam_score_app.py`):  
  
 ## Run Locally
