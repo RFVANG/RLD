@@ -8,9 +8,3 @@ A  collection of apps for calculations prognostic scores in Hetapology
   Provides the ACLF grade and linked mortality
 - **Rotterdam Score for Acute Budd-Chiari Syndrome** (`rotterdam_score_app.py`):  
  
-## Run Locally
-
-```bash
-pip install -r requirements.txt
-streamlit run aclf_app.py  # or rotterdam_score_app.py
-```
